@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="type_options">
+        <item>KEEP</item>
+        <item>WEAR</item>
+    </string-array>
+</resources>

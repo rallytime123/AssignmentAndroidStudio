@@ -1,0 +1,25 @@
+<resources>
+    <!-- Define your colors -->
+    <color name="light_gray">#AA0000</color>
+    <color name="colorPrimary">#FF3333</color>
+    <color name="white">#000000</color>
+    <color name="my_dark_primary">#FF3333</color> <!-- Define your dark primary color -->
+    <color name="my_custom_color">#00FF00</color> <!-- Define your custom color -->
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.Zakat4" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme attributes -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="myCustomColor">@color/my_custom_color</item>
+        <!-- Other theme attributes -->
+    </style>
+
+    <!-- App theme -->
+    <style name="Theme.Zakat4" parent="Base.Theme.Zakat4">
+        <item name="colorPrimaryDark">@color/my_dark_primary</item>
+        <item name="colorPrimary">@color/my_dark_primary</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <!-- Your other styles -->
+</resources>

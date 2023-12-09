@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string name="no_zakat_message">Your gold weight is less than uruf value.\nYou will not pay for zakat gold.</string>
+    <string name="total_gold_value">Total Value of Gold: %f\n</string>
+    <string name="zakat_payable_value">Zakat Payable Value: %f\n</string>
+    <string name="total_zakat">Total Zakat: %f</string>
+</resources>

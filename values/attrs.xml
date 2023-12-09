@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myCustomColor" format="color" />
+    <!-- Add other custom attributes if needed -->
+</resources>
